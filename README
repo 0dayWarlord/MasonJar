@@ -1,0 +1,7 @@
+MasonJar is a predictive algorithm written in OCaml that determines the likely winner of a pickleball match given current scores and past data from the players.
+
+The model used is an implementation of the rating system outlined in this paper:
+
+Herbrich, Ralf, Tom Minka, and Thore Graepel. "TrueSkill™: a Bayesian skill rating system." Advances in neural information processing systems 19 (2006).
+
+Doubles matches will ideally be implemented next.
