@@ -1,0 +1,3 @@
+(library
+ (name masonjar)
+ (modules masonjar))
